@@ -20,7 +20,8 @@ be my Lucille (although I'm certainly no
 [King](https://en.wikipedia.org/wiki/B.B._King)). I do, however, know and
 occasionally enjoy such other programming languages as:
 
-* JavaScript: Can't work the web without JavaScript.
+* JavaScript: Can't work the web without JavaScript. But mostly I like working
+  in [Node.js](https://nodejs.org/en/).
 * Go: I haven't done much with Go but there are definately some things I like
   about it especially its underlying philosophy(ies).
 * Zig: I actually haven't done anything with Zig yet, but it looks awesome.
